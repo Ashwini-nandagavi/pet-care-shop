@@ -24,7 +24,7 @@ So far, authentication, location reading (implemented through Google Places API)
 
 If the app or certain areas of the app are not functioning properly, please update your code with the latest in the repo.
 Disfunctionality may occur because I recently migrated my database.
-For further enquiries, reach out to me on thenifemi@gmail.com.
+For further enquiries.
 
 ## Design ❄👌
 
@@ -50,11 +50,9 @@ Feature requests, issues, pull requests and questions are welcome.
 ## Bugs 😭🐛
 
 If you encounter any bugs or are facing any issues with the code, please don't hesitate to reach out to me.
-email : thenifemi@gmail.com
+email:ashwininandagavi173@gmail.com 
 
 ## Credits 😎🤓
 
 Wilberforce Uwadiegwu: Mobile Developer [( github )](https://github.com/wilburt)
 
-
-### NIFEMI
